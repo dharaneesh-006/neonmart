@@ -575,13 +575,14 @@ footer {
         transform: translateX(-6px);
     }
     .header::before{
-        width: 400px;
+        width: 480px;
     }
     .search-form{
-        transform: translateX(-410px);
+        transform: translateX(-330px);
+        width:100%
     }
     .icons{
-        transform: translateX(-720px);
+        transform: translateX(-600px);
     }
     .navbar{
     
